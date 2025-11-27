@@ -6,6 +6,11 @@ Computer with MATLAB software
 
 ## Theory:
 
+![WhatsApp Image 2025-11-27 at 21 36 01_0718bd36](https://github.com/user-attachments/assets/a234b5ab-c0b9-4798-82c9-8adddd104ba5)
+![WhatsApp Image 2025-11-27 at 21 36 01_25ff6469](https://github.com/user-attachments/assets/16aaae3f-0ed1-4b55-ad12-73603c2c84a0)
+![WhatsApp Image 2025-11-27 at 21 36 01_8b24bd9e](https://github.com/user-attachments/assets/88eec403-5f05-4f7d-889c-927eede97296)
+![WhatsApp Image 2025-11-27 at 21 36 02_5d70602b](https://github.com/user-attachments/assets/fd4dc27d-6419-4c4b-85fb-b3b2b953b0c6)
+
 
 ## Procedure:
 	Open MATLAB software
